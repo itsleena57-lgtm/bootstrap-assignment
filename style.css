@@ -1,0 +1,25 @@
+body {
+  background-color: #ebf0fa;
+  overflow-x: hidden;
+}
+/* Hero Section */
+.hero-section {
+    background-color: #2b308b;
+}
+/* Contact Section */
+.contact-section {
+    background-color: #dbe2fd;
+}
+
+.text-navy {
+  color: #2b308b;
+}
+
+.card-box {
+  background-color: #ffffff;
+  min-height: 120px;
+}
+
+.about-section {
+  background-color: #ffffff;
+}
